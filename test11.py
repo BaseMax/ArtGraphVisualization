@@ -1,6 +1,6 @@
+import numpy as np
 import networkx as nx
 import matplotlib.pyplot as plt
-import numpy as np
 
 # Create a random graph with 10,000 nodes and 50,000 edges
 G = nx.gnm_random_graph(1000, 5000)
